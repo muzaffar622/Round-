@@ -18,8 +18,8 @@ This capsule Privacy is the sample of find places by category as name "Round행"
 운영 시간 및 위치 정보를 "라운드행"가 제공하는 연락 정보를 이용해 확인 하시기 바랍니다.
 
 
-사용 정보: 
-아이콘 = flaticon.com
+사용 정보:  <\n>
+아이콘 = flaticon.com   
 축제 정보 = 한국관광공사 open API 
 이미지 = 한국관광공사 open API
 장소 정보 = 카카오 Place
