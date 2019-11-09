@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/muzaffar622/Round-/blob/master/official_logo.png?raw=true" width="200" height="200"/>
+  <img src="https://github.com/muzaffar622/Round-/blob/master/00ef3964-f2e0-44ee-b4d5-d2ca8bba72bd_200x200.png?raw=true" width="200" height="200"/>
 </p>
 
 # Overview
