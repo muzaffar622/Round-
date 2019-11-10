@@ -45,3 +45,4 @@ This Privacy for "Round행" capsule for find places by category using Bixby voic
 },<br>
 
 수정일: 2019.11.10
+ver: 0.1.3
