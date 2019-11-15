@@ -74,5 +74,10 @@ zapLAB 팀은 본 개인정보처리방침을 빅스비 마켓플레이스에 �
 온, 오프: [pixel-perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com <br/>
 },<br>
 
+이외 다른 궁금사항이 있으면 언제든지 이메일로 문의 하시기 바랍니다.<br/>
+문의 이메일 www.myzaplab@gmail.com<br/>
+
+zapLAB Team.
+
 수정일: 2019.11.15
 ver: 0.2.1
