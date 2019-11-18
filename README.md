@@ -9,7 +9,7 @@ This Privacy for "Round행" capsule for find places by category using Bixby voic
 국내 여행, 액티비티, 축제 등 다양한 장소 정보를 알려 주는 서비스 "라운드행" 캡슐은 이용자들의 개인정보보호를 매우 중요하시며,
 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」,「개인정보보호법」을 준수하기 위하여 노력하고 있습니다.<br/> 
 zapLAB 팀은 본 개인정보처리방침을 빅스비 마켓플레이스에 올라와 있는 "라운드 행" 캡슐의 메인 화면 "법률 정보"에 URL 링크로 공개 해
-언제나 용이하게 보실 수 있도록 조치하고 있습니다. (이전 버전 링크 [버전 0.1.3](https://github.com/muzaffar622/Round-/blob/master/README.md))<br/>
+언제나 용이하게 보실 수 있도록 조치하고 있습니다. (이전 버전 링크 [버전 0.1.3](https://github.com/muzaffar622/Round-/blob/master/prev_privacy_terms_v1.md))<br/>
 라운 행 캡슐 개정 후 (0.1.3 > 0.2.1) 개인 정보보호 정책은 다음과 같은 내용을 담고 있습니다.
 
 **수집하는 개인정보의 항목 및 수집방법** <br/>
