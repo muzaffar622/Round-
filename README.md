@@ -29,7 +29,7 @@ zapLAB 팀은 본 개인정보처리방침을 빅스비 마켓플레이스에 �
 삭제 시키며 그 외의 용도로 열람 또는 이용할 수 없도록 처리하고 있습니다. <br/> 
 
 2. 사용자 전화번호를 일부 기간 이벤트용 저장 개인정보보호 정책을 아래 링크로 확인 하실 수 있습니다.<br>
-[액티비티 추천 이벤트](https://github.com/muzaffar622/Round-/edit/master/event.md) <br>
+[액티비티 추천 이벤트](https://github.com/muzaffar622/Round-/blob/master/recommend.md)<br>
 
 
 - 모든 저장 공간(DB)은 대한민국 서울에 위치하여 외부 혹은 제3자에게 제공하지 않습니다.
